@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **andormohol4@gmail.com**
 
+- 📄 Know about my experiences https://www.linkedin.com/in/shakilshajib4
+
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
