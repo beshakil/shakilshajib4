@@ -69,11 +69,11 @@
 
 ## Connect with me:
 <p align="left">
-
+    
+<a href = "https://shakilshajib.xyz/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 <a href = "https://www.linkedin.com/in/shakilshajib4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/shakilshajib4/"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "https://shakilshajib.xyz/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
-<a href = "live:andormohol4"><img src="https://img.icons8.com/color/48/000000/skype.png"/></a>
+<a href = "https://join.skype.com/invite/YdW9fc0P8q9h"><img src="https://img.icons8.com/color/48/000000/skype.png"/></a>
     
 </p>
 
