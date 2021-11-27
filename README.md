@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shakilshajib.xyz/)**
 
-- 📫 How to reach me **andormohol4@gmail.com**
+- 📫 How to reach me **shakilahmed.cse.web@gmail.com**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/shakilshajib4
 
@@ -45,8 +45,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/shakilshajib4/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shakil Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilshajib4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
