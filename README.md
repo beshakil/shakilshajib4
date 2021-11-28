@@ -39,7 +39,7 @@
 
 <br/>
 
-<!-- ## 📌 My Projects Repositories
+## 📌 My Projects Repositories
 
 <table>
   <thead align="center">
@@ -51,16 +51,21 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://cardealer-58ff1.web.app/" target="_blank">Car Dealer</a></td>
-      <td>Full stack car dealing site with separate User and Admin Dashboard.</td>
+      <td><a href="https://classic-telecom.web.app/" target="_blank">Classic Telecom</a></td>
+      <td>Full stack telecom dealing site with separate User and Admin Dashboard.</td>
       <td>React, Firebase, Material UI, Node.js, Express.js, MongoDB, Heroku</td>
     </tr>
     <tr>
-      <td> <a href="https://tour-x-travels-tourism-a-698bc.web.app/">Tour-X-Travels-Tourism</a></td>
+      <td> <a href="https://classic-car-house.web.app/">Classic Car House</a></td>
       <td>Full Stack Tours and Travels Related site. Traveller can apply for Many Other Place for travel in this site.</td>
       <td>React, Firebase, React Bootstrap, Node.js, Express, MongoDB, Heroku</td>
     </tr>
-  </tbody> -->
+    <tr>
+      <td> <a href="https://classic-doctor-portal.web.app/">Classic Doctor Portal</a></td>
+      <td>Full Stack doctor portal Related site. Patient can apply for Many Other Appoinement for Booking in this site.</td>
+      <td>React, Firebase, React Bootstrap, Node.js, Express, MongoDB, Heroku</td>
+    </tr>
+  </tbody>
 </table>
 
 ## 🔥 Streak stats
