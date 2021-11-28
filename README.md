@@ -83,17 +83,3 @@
     <img src="https://komarev.com/ghpvc/?username=shakilshajib4">
 </a>
 <a href="https://github.com/shakilshajib4?tab=followers"><img src="https://img.shields.io/github/followers/shakilshajib4?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<br/>
-
-<p align="left">
-  <!-- <a href="https://www.youtube.com/channel/UC_CvPIwiEn0_Dis86sqOCag?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC_CvPIwiEn0_Dis86sqOCag?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" /></a>   -->
- 
-  <a href="https://twitter.com/shakilshajib4">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/shakilshajib4?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>  
-  <a href="https://github.com/shakilshajib4">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Neeraj2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follower"/></a>
-  <a href="https://shakilshajib.xyz/">
-    <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
-</p>
