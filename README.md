@@ -43,13 +43,12 @@
 
 <a href="https://github.com/mvndr/javascript-algorithms">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mvndr&repo=javascript-algorithms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/mvndr/javascript-algorithms">
+</a><a href="https://github.com/mvndr/javascript-algorithms">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mvndr&repo=javascript-algorithms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a><a href="https://github.com/mvndr/javascript-algorithms">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mvndr&repo=javascript-algorithms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/mvndr/javascript-algorithms">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mvndr&repo=javascript-algorithms&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+
 
 <table>
   <thead align="center">
@@ -86,8 +85,6 @@
 <a href="https://github.com/shakilshajib4/github-readme-stats"><img alt="Shakil Ahmed Github Stats" src="https://github-readme-stats.vercel.app/api?username=shakilshajib4&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/shakilshajib4/github-readme-stats"><img alt="Shakil Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilshajib4&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <a href="https://github.com/shakilshajib4/github-readme-activity-graph"><img alt="Shakil Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakilshajib4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
 ## ❤ Views and Followers
 
