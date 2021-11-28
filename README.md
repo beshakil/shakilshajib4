@@ -74,6 +74,7 @@
 </table>
 
 ## 🔥 Streak stats
+
 <p align="center">
 <a href="https://github.com/shakilshajib4/github-readme-streak-stats">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shakil Ahmed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilshajib4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -87,7 +88,9 @@
 <a href="https://github.com/shakilshajib4/github-readme-activity-graph"><img alt="Shakil Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakilshajib4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shakilshajib4">
 </a>
