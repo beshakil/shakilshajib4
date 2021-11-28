@@ -87,14 +87,6 @@
 <a href="https://github.com/shakilshajib4/github-readme-activity-graph"><img alt="Shakil Ahmed Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shakilshajib4&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
-
-
-![GitHub metrics](https://metrics.lecoq.io/shakilshajib4)
-
-<br/>
-<br/>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shakilshajib4">
