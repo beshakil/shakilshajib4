@@ -53,7 +53,7 @@
     <tr>
       <td><a href="https://classic-telecom.web.app/" target="_blank">Classic Telecom</a></td>
       <td>Full stack telecom dealing site with separate User and Admin Dashboard.</td>
-      <td>React, Firebase, Material UI, Node.js, Express.js, MongoDB, Heroku</td>
+      <td>React, Firebase, Tailwind CSS, Node.js, Express.js, MongoDB, Heroku</td>
     </tr>
     <tr>
       <td> <a href="https://classic-car-house.web.app/">Classic Car House</a></td>
@@ -63,7 +63,7 @@
     <tr>
       <td> <a href="https://classic-doctor-portal.web.app/">Classic Doctor Portal</a></td>
       <td>Full Stack doctor portal Related site. Patient can apply for Many Other Appoinement for Booking in this site.</td>
-      <td>React, Firebase, React Bootstrap, Node.js, Express, MongoDB, Heroku</td>
+      <td>React, Firebase, Material UI, Node.js, Express, MongoDB, Heroku</td>
     </tr>
   </tbody>
 </table>
