@@ -24,11 +24,11 @@
 
 ## 🙋‍♂️ Feel Free to Connect With Me:
 
-[<img src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/>](https://facebook.com/masuvon)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/masuvon)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eashovon/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ashrafuzzaman.shovon.786@gmail.com)
-[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](mailto:ashrafuzzaman.shovon.786@gmail.com)
+[<img src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/>](https://shakilshajib.xyz/)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/shakilshajib4/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shakilshajib4/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shakilahmed.cse.web@gmail.com)
+[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shakilshajib4)
 
 <br/>
 
@@ -40,7 +40,6 @@
 <br/>
 
 ## 📌 My Projects Pinned Repositories
-<br/>
 
 <table>
   <thead align="center">
@@ -98,5 +97,3 @@
   <a href="https://shakilshajib.xyz/">
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a> 
 </p>
-
-</br>
