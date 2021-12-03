@@ -1,6 +1,6 @@
-<p align="center"><a href="https://shakilshajib.xyz/"><img width="250px" height="250px" src="https://shakilshajib.xyz/wp-content/uploads/2021/07/web-developer-illustration-503x512-mega3xxj.png" height="175px"/></a></p>
+<p align="center"><a href="https://shakilshajib.xyz/"><img width="250px" height="250px" src="" height="175px"/></a></p>
 
-<h1 align="center">Hi <img src="#" width="30px">, I'm Shakil Ahmed</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shakil Ahmed</h1>
 <h3 align="center">I'm a passionate Mean Stack Developer from Bangladesh.</h3>
 
 
