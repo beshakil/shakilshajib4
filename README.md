@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shakilshajib.xyz/)**
 
-- 📫 How to reach me **shakilahmed.cse.web@gmail.com**
+- 📫 How to reach me **dev.shakilahmed@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
