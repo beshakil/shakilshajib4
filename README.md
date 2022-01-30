@@ -1,7 +1,7 @@
 <!-- <p align="center"><a href="https://shakilshajib.xyz/"><img width="250px" height="250px" src="" height="175px"/></a></p> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shakil Ahmed</h1>
-<h3 align="center">I'm a passionate Mean Stack Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate Mern Stack Developer from Bangladesh.</h3>
 
 
 ## 😎 About Me
