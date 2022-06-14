@@ -1,6 +1,6 @@
 <p align="center"><a href="https://shakilshajib.xyz/"><img width="250px" height="250px" src="https://shakilshajib.xyz/wp-content/uploads/2022/01/development-4536630_960_720.png" height="175px"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shakil Ahmed</h1>
+<h1 align="center">Hi, I'm Shakil Ahmed</h1>
 <h3 align="center">I'm a passionate Mern Stack Developer from Bangladesh.</h3>
 
 
